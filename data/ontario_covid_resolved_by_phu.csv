@@ -1,35 +1,37 @@
-Reporting_PHU,count
-Algoma Public Health Unit,192
-Brant County Health Unit,1611
-Chatham-Kent Health Unit,1324
-Durham Region Health Department,11316
-Eastern Ontario Health Unit,2530
-Grey Bruce Health Unit,680
-Haldimand-Norfolk Health Unit,1309
-"Haliburton, Kawartha, Pine Ridge District Health Unit",951
-Halton Region Health Department,8696
-Hamilton Public Health Services,9844
-Hastings and Prince Edward Counties Health Unit,385
-Huron Perth District Health Unit,1268
-"Kingston, Frontenac and Lennox & Addington Public Health",699
-Lambton Public Health,1984
-"Leeds, Grenville and Lanark District Health Unit",787
-Middlesex-London Health Unit,5912
-Niagara Region Public Health Department,8113
-North Bay Parry Sound District Health Unit,254
-Northwestern Health Unit,392
-Ottawa Public Health,13831
-Peel Public Health,58429
-Peterborough Public Health,596
-Porcupine Health Unit,303
-"Region of Waterloo, Public Health",10135
-Renfrew County and District Health Unit,311
-Simcoe Muskoka District Health Unit,6067
-Southwestern Public Health,2392
-Sudbury & District Health Unit,565
-Thunder Bay District Health Unit,1281
-Timiskaming Health Unit,91
-Toronto Public Health,88591
-Wellington-Dufferin-Guelph Public Health,4518
-Windsor-Essex County Health Unit,12347
-York Region Public Health Services,27558
+,_id
+,count
+Reporting_PHU,
+Algoma Public Health Unit,337
+Brant County Health Unit,3224
+Chatham-Kent Health Unit,1777
+Durham Region Health Department,21568
+Eastern Ontario Health Unit,4251
+Grey Bruce Health Unit,1191
+Haldimand-Norfolk Health Unit,2326
+"Haliburton, Kawartha, Pine Ridge District Health Unit",1667
+Halton Region Health Department,14913
+Hamilton Public Health Services,17951
+Hastings and Prince Edward Counties Health Unit,982
+Huron Perth District Health Unit,1602
+"Kingston, Frontenac and Lennox & Addington Public Health",1381
+Lambton Public Health,3244
+"Leeds, Grenville and Lanark District Health Unit",1604
+Middlesex-London Health Unit,10594
+Niagara Region Public Health Department,13866
+North Bay Parry Sound District Health Unit,366
+Northwestern Health Unit,975
+Ottawa Public Health,24304
+Peel Public Health,95252
+Peterborough Public Health,1248
+Porcupine Health Unit,651
+"Region of Waterloo, Public Health",14487
+Renfrew County and District Health Unit,613
+Simcoe Muskoka District Health Unit,10620
+Southwestern Public Health,3446
+Sudbury & District Health Unit,1950
+Thunder Bay District Health Unit,3070
+Timiskaming Health Unit,191
+Toronto Public Health,144390
+Wellington-Dufferin-Guelph Public Health,7170
+Windsor-Essex County Health Unit,15301
+York Region Public Health Services,47663
